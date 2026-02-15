@@ -7,8 +7,9 @@
 ---
 
 ## 📽️ Demo Video
-*[Recording in progress...]*
----
+[![Snapy Demo](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.mp4)
+
+*Click the preview image above to watch the demo video!*
 
 ## ✨ Features
 
