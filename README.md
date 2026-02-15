@@ -2,7 +2,7 @@
 
 > **Fast, Reliable & Professional Snapchat Streak Restorer**
 
-![Snapy Preview](preview.png)
+![Snapy Preview](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)
 
 ---
 
