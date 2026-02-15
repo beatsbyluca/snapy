@@ -2,7 +2,13 @@
 
 > **Fast, Reliable & Professional Snapchat Streak Restorer**
 
-Snapy is a high-performance automation tool designed to recover lost Snapchat streaks effortlessly. It features a premium command-line interface, multi-friend support, and advanced browser stealth to ensure a smooth restoration process.
+![Snapy Preview](preview.png)
+
+---
+
+## 📽️ Demo Video
+*[Recording in progress...]*
+<!-- Add your video link here once recorded -->
 
 ---
 
