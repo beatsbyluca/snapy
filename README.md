@@ -7,7 +7,7 @@
 ---
 
 ## 📽️ Demo Video
-[![Snapy Demo](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.mp4)
+[![Snapy Demo](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)](https://drive.google.com/file/d/1TC_E_M6L7l8crEHgwywFBzXBMKC8FVDD/view)
 
 *Click the preview image above to watch the demo video!*
 
