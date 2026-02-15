@@ -1,3 +1,4 @@
+
 # 👻 Snapy v.1.0.1
 
 > **Fast, Reliable & Professional Snapchat Streak Restorer**
@@ -7,7 +8,7 @@
 ---
 
 ## 📽️ Demo Video
-[![Snapy Demo](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)](https://drive.google.com/file/d/1TC_E_M6L7l8crEHgwywFBzXBMKC8FVDD/view)
+[![Snapy Demo](https://raw.githubusercontent.com/beatsbyluca/snapy/refs/heads/main/assets/preview.png)](https://drive.google.com/uc?export=download&id=1TC_E_M6L7l8crEHgwywFBzXBMKC8FVDD)
 
 *Click the preview image above to watch the demo video!*
 
