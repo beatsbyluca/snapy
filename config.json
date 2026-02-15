@@ -1,0 +1,10 @@
+{
+  "username": "snapchat",
+  "email": "luca@example.com",
+  "phone": "+777777777777",
+  "friends": [
+    "Test",
+    "Test2",
+    "Test3"
+  ]
+}
