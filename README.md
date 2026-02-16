@@ -11,7 +11,7 @@
 Snapy automates the official Snapchat support recovery workflow by securely populating the streak restoration form with your account and friend details.  
 It streamlines the manual recovery process, reduces repetitive input, and allows multiple streak requests to be submitted in a structured, consistent way.
 
-The tool does **not** exploit Snapchat systems — it simply accelerates the standard user-initiated support request flow through controlled browser automation.
+The tool does **not** exploit Snapchat systems it simply accelerates the standard user initiated support request flow through controlled browser automation.
 
 ## ✨ Features
 
@@ -69,4 +69,5 @@ python restorer.py
 This tool is for educational purposes only. Use it responsibly and in accordance with Snapchat's Terms of Service.
 
 **Created with ❤️ by Beatsbyluca**
+
 
