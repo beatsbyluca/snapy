@@ -213,3 +213,4 @@ if __name__ == "__main__":
         asyncio.run(restore_streak())
     except KeyboardInterrupt:
         print(f"\n{Fore.YELLOW}Snapy terminated.")
+
